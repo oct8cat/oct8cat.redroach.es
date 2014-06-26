@@ -1,0 +1,13 @@
+{
+    "name": "oct8cat.redroach.es",
+    "version": "0.0.0",
+    "authors": [
+        "Tako Neko <oct8cat@gmail.com>"
+    ],
+    "description": "http://oct8cat.redroach.es",
+    "license": "MIT",
+    "homepage": "http://oct8cat.redroach.es",
+    "dependencies": {
+        "font-awesome": "~4.1.0"
+    }
+}

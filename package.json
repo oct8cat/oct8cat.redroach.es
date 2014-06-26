@@ -1,0 +1,19 @@
+{
+  "name": "oct8cat.redroach.es",
+  "version": "0.0.0",
+  "description": "http://oct8cat.redroach.es",
+  "devDependencies": {
+    "grunt-contrib-jade": "^0.12.0",
+    "grunt": "^0.4.5"
+  },
+  "author": "Tako Neko <oct8cat@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oct8cat/oct8cat.redroach.es"
+  },
+  "bugs": {
+    "url": "https://github.com/oct8cat/oct8cat.redroach.es/issues"
+  },
+  "homepage": "https://github.com/oct8cat/oct8cat.redroach.es"
+}

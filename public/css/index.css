@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: table;
+    text-align: center;
+    background-color: #fff;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+ul {
+    display: table-cell;
+    vertical-align: middle;
+    list-style-type: none
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+li:last-child {
+    margin-right: 0;
+}
+
+a {
+    color: #444;
+}
+
+a:hover, a:focus {
+    color: #666;
+}
